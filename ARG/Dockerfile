@@ -1,4 +1,4 @@
-FROM almalinuix:9
+FROM almalinux:9
 ENV project="expense"\
     environment="dev"\
     trainer="madhukar"
